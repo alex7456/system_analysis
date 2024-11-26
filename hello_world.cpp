@@ -1,7 +1,7 @@
 ﻿
 
 #include <iostream>
-
+//greeting user
 int main()
 {
     std::string name;
